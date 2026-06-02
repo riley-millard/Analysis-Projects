@@ -26,7 +26,7 @@ Here, you have a clear view of all my in progress, and completed projects :)
 
 | Learning Activity | Skills | Status |
 |------------------|---------|---------|
-| DataLemur SQL Questions | SQL, problem-solving, business queries | 🟡 In Progress |
+| [DataLemur SQL Questions](https://github.com/riley-millard/DataLemur-SQL-Questions/tree/main) | SQL, problem-solving, business queries | 🟡 In Progress |
 | LeetCode SQL 50 | SQL, joins, CTEs, window functions | 🟡 In Progress |
 | Workout Wednesday PowerBI Challenges | Data modelling, DAX, visualisation, storytelling | 🟡 In Progress |
 | Microsoft Dashboard in a Day | Power BI, Data Modelling, DAX, Dashboard Development | 🟡 In Progress |
