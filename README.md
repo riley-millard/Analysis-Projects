@@ -1,6 +1,11 @@
 # 👋 Hi, Welcome to my portfolio!
 Here, you have a clear view of all my in progress, and completed projects :)
 
+## 📖 Contents
+
+[🧠 Projects](https://github.com/riley-millard/Analysis-Projects#-projects)
+[📚 Learning Journey](https://github.com/riley-millard/Analysis-Projects#-learning-journey)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🧠 Projects
