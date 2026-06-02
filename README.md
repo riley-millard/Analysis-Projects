@@ -7,7 +7,6 @@ Here, you have a clear view of all my in progress, and completed projects :)
 
 [📚 Learning Journey](https://github.com/riley-millard/Analysis-Projects#-learning-journey)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🧠 Projects
 
@@ -18,7 +17,7 @@ Here, you have a clear view of all my in progress, and completed projects :)
 | Customer Churn Analysis | Planned | SQL, Python | Identifying factors associated with customer churn and retention. |
 | Financial Performance Analysis | Planned | Excel, SQL, Power BI | Analysing revenue, profitability and business performance trends. |
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📚 Learning Journey
 
 | Learning Activity | Skills | Status |
