@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="ChatGPT Image Jun 2, 2026, 01_49_44 PM" src="https://github.com/user-attachments/assets/25d65af2-b4c0-4ba1-afc3-4485bfe61e22" />
+<img width="1983" height="793" alt="ChatGPT Image Jun 2, 2026, 01_56_22 PM" src="https://github.com/user-attachments/assets/e2f78c9e-adcc-46fc-b708-341a0093c27d" />
 
 # 👋 Hi, Welcome to my portfolio!
 Here, you have a clear view of all my in progress, and completed projects :)
