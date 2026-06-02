@@ -1,7 +1,9 @@
-# Hi, Welcome to my portfolio!
+# 👋 Hi, Welcome to my portfolio!
 Here, you have a clear view of all my in progress, and completed projects :)
 
-# Projects
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🧠 Projects
 
 | Project Name | Date Completed | Tools | Description |
 |-------------|---------------|---------|-------------|
@@ -15,4 +17,8 @@ Here, you have a clear view of all my in progress, and completed projects :)
 
 | Learning Activity | Skills | Status |
 |------------------|---------|---------|
-| [SQL Challenges](LINK_TO_REPO_OR_FOLDER) | SQL, problem-solving, business queries | 🟡 In Progress |
+| DataLemur SQL Questions | SQL, problem-solving, business queries | 🟡 In Progress |
+| LeetCode SQL 50 | SQL, joins, CTEs, window functions | 🟡 In Progress |
+| Workout Wednesday PowerBI Challenges | Data modelling, DAX, visualisation, storytelling | 🟡 In Progress |
+| Microsoft Dashboard in a Day | Power BI, Data Modelling, DAX, Dashboard Development | 🟡 In Progress |
+| Kaggle Python & Pandas Courses | Python, Pandas, Data Cleaning, Exploratory Analysis | 🔵 Planned |
