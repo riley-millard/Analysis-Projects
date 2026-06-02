@@ -11,7 +11,7 @@ Here, you have a clear view of all my in progress, and completed projects :)
 
 
 
-# 🧠 Projects
+## 🧠 Projects
 
 | Project Name | Date Completed | Tools | Description |
 |-------------|---------------|---------|-------------|
